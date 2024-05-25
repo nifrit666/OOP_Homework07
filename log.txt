@@ -1,0 +1,72 @@
+Jul 23, 2023 1:54:23 AM calculator.ui.CalcView run
+INFO: Application launched
+Jul 23, 2023 1:54:56 AM calculator.ui.CalcView run
+INFO: User input: [45, 45], operation: +
+Jul 23, 2023 1:54:56 AM calculator.ui.CalcView run
+INFO: Calculation result: 90.0
+Jul 23, 2023 2:03:51 AM calculator.ui.CalcView run
+INFO: Application launched
+Jul 23, 2023 2:03:57 AM calculator.ui.CalcView run
+INFO: User input: [, ], operation: 
+Jul 23, 2023 2:03:57 AM calculator.ui.CalcView run
+INFO: Application closed
+Jul 23, 2023 2:08:26 AM calculator.ui.CalcView run
+INFO: Application launched
+Jul 23, 2023 2:08:32 AM calculator.ui.CalcView run
+INFO: User input: [12, 45], operation: +
+Jul 23, 2023 2:08:32 AM calculator.ui.CalcView run
+INFO: Calculation result: 57.0
+Jul 23, 2023 2:08:49 AM calculator.ui.CalcView run
+INFO: User input: [i, i], operation: *
+Jul 23, 2023 2:08:49 AM calculator.ui.CalcView run
+INFO: Calculation result: -1.0
+Jul 23, 2023 2:09:09 AM calculator.ui.CalcView run
+INFO: User input: [, ], operation: 
+Jul 23, 2023 2:09:09 AM calculator.ui.CalcView run
+INFO: Application closed
+Jul 23, 2023 2:14:33 AM calculator.ui.CalcView run
+INFO: Application launched
+Jul 23, 2023 2:14:39 AM calculator.ui.CalcView run
+INFO: User input: [-i, -i], operation: *
+Jul 23, 2023 2:14:40 AM calculator.ui.CalcView run
+INFO: Calculation result: -1.0
+Jul 23, 2023 2:14:43 AM calculator.ui.CalcView run
+INFO: User input: [, ], operation: 
+Jul 23, 2023 2:14:43 AM calculator.ui.CalcView run
+INFO: Application closed
+Jul 23, 2023 2:20:45 AM calculator.ui.CalcView run
+INFO: Application launched
+Jul 23, 2023 2:21:00 AM calculator.ui.CalcView run
+INFO: User input: [1-i, 1-i], operation: *
+Jul 23, 2023 2:21:00 AM calculator.ui.CalcView run
+INFO: Calculation result: -2.0*i
+Jul 23, 2023 2:21:11 AM calculator.ui.CalcView run
+INFO: User input: [, ], operation: 
+Jul 23, 2023 2:21:11 AM calculator.ui.CalcView run
+INFO: Application closed
+мая 25, 2024 10:11:25 PM calculator.ui.CalcView run
+INFO: Application launched
+мая 25, 2024 10:11:54 PM calculator.ui.CalcView run
+INFO: User input: [8, 2], operation: +
+мая 25, 2024 10:11:54 PM calculator.ui.CalcView run
+INFO: Calculation result: 10.0
+мая 25, 2024 10:12:00 PM calculator.ui.CalcView run
+INFO: User input: [, ], operation: 
+мая 25, 2024 10:12:00 PM calculator.ui.CalcView run
+INFO: Application closed
+мая 25, 2024 10:21:05 PM calculator.ui.CalcView run
+INFO: Приложение запущено
+мая 25, 2024 10:21:23 PM calculator.ui.CalcView run
+INFO: Ввод данных: [2+, 5], оператор: 3
+мая 25, 2024 10:21:23 PM calculator.ui.CalcView run
+INFO: Результат вычислений: Ошибка: Недопустимая операция
+мая 25, 2024 10:22:10 PM calculator.ui.CalcView run
+INFO: Приложение запущено
+мая 25, 2024 10:22:19 PM calculator.ui.CalcView run
+INFO: Ввод данных: [5, 0], оператор: /
+мая 25, 2024 10:22:19 PM calculator.ui.CalcView run
+INFO: Результат вычислений: Ошибка: деление на ноль
+мая 25, 2024 10:22:27 PM calculator.ui.CalcView run
+INFO: Ввод данных: [, ], оператор: 
+мая 25, 2024 10:22:27 PM calculator.ui.CalcView run
+INFO: Приложение завершает работу
